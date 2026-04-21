@@ -4,7 +4,7 @@ IDEALRec: Refining Recommendation Embeddings through Image-Enhanced Discriminati
 
 Model architecture:
 
-<img src="./img/framework3.1.png" width="800">
+<img src="./img/framework.png" width="800">
 
 # Implementation
 ## Requirements
